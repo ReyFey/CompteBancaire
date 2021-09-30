@@ -7,7 +7,7 @@ namespace CompteBancaire
         private int _solde;
         private string _titulaire;
         private string _devise;
-        private static int _nbComptes;
+        protected static int _nbComptes;
 
         public CompteB(int unSolde, string unTitulaire, string uneDevise)
         {
@@ -20,6 +20,11 @@ namespace CompteBancaire
         public CompteB(int unSolde)
         {
             this.setSolde(unSolde);
+            _nbComptes += 1;
+        }
+        public CompteB()
+        {
+            this.setSolde(0);
             _nbComptes += 1;
         }
 
