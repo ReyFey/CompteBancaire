@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompteBancaire", "CompteBancaire\CompteBancaire.csproj", "{FE2C2436-E7E3-4E40-B77D-5B5EFEA97196}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCompteBancaire", "TestCompteBancaire\TestCompteBancaire.csproj", "{A659846C-2EE9-4B92-BFAB-C72335F2EA84}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{FE2C2436-E7E3-4E40-B77D-5B5EFEA97196}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE2C2436-E7E3-4E40-B77D-5B5EFEA97196}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE2C2436-E7E3-4E40-B77D-5B5EFEA97196}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A659846C-2EE9-4B92-BFAB-C72335F2EA84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A659846C-2EE9-4B92-BFAB-C72335F2EA84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A659846C-2EE9-4B92-BFAB-C72335F2EA84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A659846C-2EE9-4B92-BFAB-C72335F2EA84}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
