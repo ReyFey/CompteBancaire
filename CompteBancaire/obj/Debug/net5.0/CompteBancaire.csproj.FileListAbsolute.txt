@@ -1,0 +1,16 @@
+C:\Users\BETSCH\Documents\C#\CompteBancaire\CompteBancaire\bin\Debug\net5.0\CompteBancaire.exe
+C:\Users\BETSCH\Documents\C#\CompteBancaire\CompteBancaire\bin\Debug\net5.0\CompteBancaire.deps.json
+C:\Users\BETSCH\Documents\C#\CompteBancaire\CompteBancaire\bin\Debug\net5.0\CompteBancaire.runtimeconfig.json
+C:\Users\BETSCH\Documents\C#\CompteBancaire\CompteBancaire\bin\Debug\net5.0\CompteBancaire.runtimeconfig.dev.json
+C:\Users\BETSCH\Documents\C#\CompteBancaire\CompteBancaire\bin\Debug\net5.0\CompteBancaire.dll
+C:\Users\BETSCH\Documents\C#\CompteBancaire\CompteBancaire\bin\Debug\net5.0\ref\CompteBancaire.dll
+C:\Users\BETSCH\Documents\C#\CompteBancaire\CompteBancaire\bin\Debug\net5.0\CompteBancaire.pdb
+C:\Users\BETSCH\Documents\C#\CompteBancaire\CompteBancaire\obj\Debug\net5.0\CompteBancaire.csproj.AssemblyReference.cache
+C:\Users\BETSCH\Documents\C#\CompteBancaire\CompteBancaire\obj\Debug\net5.0\CompteBancaire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BETSCH\Documents\C#\CompteBancaire\CompteBancaire\obj\Debug\net5.0\CompteBancaire.AssemblyInfoInputs.cache
+C:\Users\BETSCH\Documents\C#\CompteBancaire\CompteBancaire\obj\Debug\net5.0\CompteBancaire.AssemblyInfo.cs
+C:\Users\BETSCH\Documents\C#\CompteBancaire\CompteBancaire\obj\Debug\net5.0\CompteBancaire.csproj.CoreCompileInputs.cache
+C:\Users\BETSCH\Documents\C#\CompteBancaire\CompteBancaire\obj\Debug\net5.0\CompteBancaire.dll
+C:\Users\BETSCH\Documents\C#\CompteBancaire\CompteBancaire\obj\Debug\net5.0\ref\CompteBancaire.dll
+C:\Users\BETSCH\Documents\C#\CompteBancaire\CompteBancaire\obj\Debug\net5.0\CompteBancaire.pdb
+C:\Users\BETSCH\Documents\C#\CompteBancaire\CompteBancaire\obj\Debug\net5.0\CompteBancaire.genruntimeconfig.cache
