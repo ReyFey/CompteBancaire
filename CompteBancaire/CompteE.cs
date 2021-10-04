@@ -6,14 +6,9 @@ namespace CompteBancaire
     {
         private int _tauxInteret;
 
-        public CompteE(int unTauxInteret)
+        public CompteE(int unTauxInteret = 0)
         {
             this.setTauxInteret(unTauxInteret);
-            CompteB._nbComptes++;
-        }
-        public CompteE()
-        {
-            _nbComptes++;
         }
 
         public int getTauxInteret()
