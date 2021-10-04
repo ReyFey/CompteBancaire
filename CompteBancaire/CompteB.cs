@@ -7,7 +7,7 @@ namespace CompteBancaire
         private int _solde;
         private string _titulaire;
         private string _devise;
-        protected static int _nbComptes;
+        private static int _nbComptes;
 
         public CompteB(int unSolde, string unTitulaire, string uneDevise)
         {
